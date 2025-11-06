@@ -145,17 +145,6 @@ DecisionTreeClassifier(
 | + All Features | 0.35-0.40 | 70-75% | 25-30% | 0.75-0.80 |
 | + Ensemble/Engineering | 0.45-0.50 | 75-80% | 30-35% | 0.80-0.85 |
 
-## 📂 Repository Structure
-```
-├── notebooks/
-│   └── bank_marketing_analysis.ipynb    # Main analysis notebook
-├── data/
-│   └── bank-additional-full.csv         # Dataset
-├── images/                               # Visualizations and charts
-├── README.md                             # This file
-└── requirements.txt                      # Python dependencies
-```
-
 ## 🛠️ Technologies Used
 
 - **Python 3.x**
